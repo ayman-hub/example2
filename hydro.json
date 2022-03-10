@@ -1,0 +1,15 @@
+{
+  "project": "new_test_hydro_sdk",
+  "components": [
+    {
+      "name": "counter-example",
+      "chunks": [
+        {
+          "type": "mountable",
+          "baseUrl": "ota",
+          "entryPoint": "ota/index.ts"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "new_test_hydro_sdk",
+  "version": "1.0.0",
+  "description": "new test for hydro",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ayman-hub/example2.git"
+  },
+  "keywords": [
+    "ayman2371213"
+  ],
+  "author": "ayman-hub",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ayman-hub/example2/issues"
+  },
+  "homepage": "https://github.com/ayman-hub/example2#readme"
+}
